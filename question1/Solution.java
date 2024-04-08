@@ -1,3 +1,5 @@
+package question1;
+
 import java.util.*;
 
 /**
